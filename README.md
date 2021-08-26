@@ -1,6 +1,6 @@
 # Synapses
 
-A **neural networks** library for **FSharp**!
+A **neural networks** library written in **FSharp**!
 
 ```fsharp
 // run
