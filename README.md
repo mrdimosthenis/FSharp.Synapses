@@ -51,7 +51,7 @@ let fitNetwork =
 
 `fitNetwork` is a new neural network trained with a single observation.
 
-> to train a neural network, you should fit with multiple datapoints
+To train a neural network, you should fit with multiple datapoints
 
 ### Create a customized neural network
 
@@ -163,7 +163,7 @@ let encodedDatapoints =
                 dataset
 ```
 
-> `encodedDatapoints` equals to
+`encodedDatapoints` equals to:
 
 ```json
 [ [ 0.0     , 0.0     , 0.0     , 1.0     , 0.0, 0.0, 1.0 ],
